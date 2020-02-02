@@ -1,4 +1,21 @@
-# Create React Express App
+# Google Books Search App **:books:**
+React-based, Google Books Search, Node, Express and MongoDB
+
+### Overview
+
+**Mollusk-Memory-Game** is a fully-responsive game built with React.js. Click on any sea creature that you desire to begin the game. The images will all reshuffle themselves. Click on a new mollusk each time to earn points, but be careful! Clicking on the same mollusk twice will end the game.
+Welcome to [Mollusk-Memory-Game]( https://mollusk-memory-game.herokuapp.com/ ). Enjoy!
+
+### Prerequisites
+
+- Clone down repo
+- Node.js - Download the latest version of Node https://nodejs.org/en/
+- Run command 'npm install' in Terminal or GitBash
+
+
+
+
+<!-- # Create React Express App
 
 ## About This Boilerplate
 
@@ -26,4 +43,4 @@ Your app should now be running on <http://localhost:3000>. The Express server sh
 
 ## Deployment (Heroku)
 
-To deploy, simply add and commit your changes, and push to Heroku. As is, the NPM scripts should take care of the rest.
+To deploy, simply add and commit your changes, and push to Heroku. As is, the NPM scripts should take care of the rest. -->
