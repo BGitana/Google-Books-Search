@@ -1,10 +1,10 @@
 # Google Books Search App **:books:**
-React-based, Google Books Search, Node, Express and MongoDB
+React-based, Google Books search, Node, Express and MongoDB
 
 ### Overview
 
-**Mollusk-Memory-Game** is a fully-responsive game built with React.js. Click on any sea creature that you desire to begin the game. The images will all reshuffle themselves. Click on a new mollusk each time to earn points, but be careful! Clicking on the same mollusk twice will end the game.
-Welcome to [Mollusk-Memory-Game]( https://mollusk-memory-game.herokuapp.com/ ). Enjoy!
+**Google-Books-Search-App** is a fully-responsive game built with React.js. Click on any sea creature that you desire to begin the game. The images will all reshuffle themselves. Click on a new mollusk each time to earn points, but be careful! Clicking on the same mollusk twice will end the game.
+Welcome to [Google-Books-Search-App](https://github.com/BGitana/Google-Books-Search). Enjoy!
 
 ### Prerequisites
 
