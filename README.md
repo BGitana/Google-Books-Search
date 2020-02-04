@@ -1,9 +1,9 @@
 # Google Books Search App **:books:**
-React-based, Google Books search, Node, Express and MongoDB
+MERN = React-based, Google Books search, Node, Express and MongoDB
 
 ### Overview
 
-**Google-Books-Search-App** is a fully-responsive game built with React.js. Click on any sea creature that you desire to begin the game. The images will all reshuffle themselves. Click on a new mollusk each time to earn points, but be careful! Clicking on the same mollusk twice will end the game.
+**Google-Books-Search-App** is a fully-responsive full MERN stack app. It displays books on user searches. Users can save them for for later review or purchase.
 Welcome to [Google-Books-Search-App](https://github.com/BGitana/Google-Books-Search). Enjoy!
 
 ### Prerequisites
